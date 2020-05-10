@@ -3,13 +3,13 @@
   #### − Remove all the blank rows.
   #### − Update the column header if they are not updated
   #### − Create a text table and show the sales in terms of
-      #### o Customers
-      #### o Product Category
-      #### o Regions
+      o Customers
+      o Product Category
+      o Regions
 
 ### Create a line and Clustered Column Chart showing the Sales and Discount as per the State or Province
   #### − Format the bars and line with different colors
-  #### − Which state has the highest sales in terms Technology - New York
+  #### − Which state has the highest sales in terms Technology - ### New York
 
 ### Create a Donut Chart showing sales in terms of Product category
 
