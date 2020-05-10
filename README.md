@@ -9,7 +9,7 @@
 
 ### Create a line and Clustered Column Chart showing the Sales and Discount as per the State or Province
   #### − Format the bars and line with different colors
-  #### − Which state has the highest sales in terms Technology - ### New York
+  #### − Which state has the highest sales in terms Technology - **New York**
 
 ### Create a Donut Chart showing sales in terms of Product category
 
