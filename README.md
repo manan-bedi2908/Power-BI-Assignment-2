@@ -8,9 +8,9 @@
       o Regions
 
 ### Create a line and Clustered Column Chart showing the Sales and Discount as per the State or Province
-  − Format the bars and line with different colors
-  − Which state has the highest sales in terms Technology - New York
+  #### − Format the bars and line with different colors
+  #### − Which state has the highest sales in terms Technology - New York
 
 ### Create a Donut Chart showing sales in terms of Product category
 
-###Create a Slicer and show the regions in dropdown. See how all the visuals mentioned above behaving when a particular region is selected.
+### Create a Slicer and show the regions in dropdown. See how all the visuals mentioned above behaving when a particular region is selected.
