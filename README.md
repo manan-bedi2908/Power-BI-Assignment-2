@@ -1,11 +1,11 @@
 # Power-BI-Assignment-2
 ## Connect to the Store Sales Data and do the following: -
-  − Remove all the blank rows.
-  − Update the column header if they are not updated
-  − Create a text table and show the sales in terms of
-      o Customers
-      o Product Category
-      o Regions
+  #### − Remove all the blank rows.
+  #### − Update the column header if they are not updated
+  #### − Create a text table and show the sales in terms of
+      #### o Customers
+      #### o Product Category
+      #### o Regions
 
 ### Create a line and Clustered Column Chart showing the Sales and Discount as per the State or Province
   #### − Format the bars and line with different colors
